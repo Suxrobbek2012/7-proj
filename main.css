@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .ota{
+    display: flex;
+    width: 1000px;
+    background-color: black;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 200px auto;
+    justify-content: center;
+    align-items: center;
+}
+.bola{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border: 2px solid yellow;
+}
+.suhrob{
+    background-color: pink;
+    position: absolute;
+}
+.nurmuhammad{
+    background-color: blue;
+}
+.komron{
+    background-color: green;
+}
+.bot{
+    background-color: red;
+}
+.shukur{
+    background-color: yellow;
+} */
+/* .ota{
+    width: 879px;
+    padding: 40px 0;
+    background-color: black;
+    border: 2px solid yellow;
+    border-radius: 50px;
+    margin: 100px auto;
+    box-shadow:10px 10px 15px blue ;
+    position: relative;
+}
+.text{
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex   ;
+    text-shadow: 10px 10px 15px yellow;
+}
+.mol{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bot{
+    width: 104px;
+    height: 104px;
+    background-color: red;
+    border-radius: 50px;
+    position: absolute;
+    top: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.bott{
+    width: 134px;
+    height: 104px;
+    background-color: red;
+    border-radius: 50px;
+    position: absolute;
+    top: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.bottt{
+    width: 104px;
+    height: 104px;
+    background-color: red;
+    border-radius: 50px;
+    position: absolute;
+    top: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;    
+   
+}
+.noo{
+    font-weight: 900;
+    text-align: center;
+    padding-top: 10px;
+}
+.lok{
+    color: antiquewhite;
+} */
+
+
+
+
+.chevara{
+    display: flex;
+    padding-top: 50px;
+    text-decoration: none;
+    justify-content: space-around;
+}
+.evara{
+    list-style: none;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-shadow: 4px 4px 4px gold;
+}
+.oto{
+    /* Postion */
+position: relative;
+width: 1440px;
+height: 1560px;
+background: rgb(0, 0, 0);
+margin: 0 auto;
+}
+.bola{
+    width: 237px;
+    height: 209px;
+    color: rgb(255, 6, 6);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+align-items: center;
+justify-content: center;
+display: flex;
+padding-top: 100px;
+text-shadow: 4px 4px 4px white;
+    box-shadow: 0px 22px 27.8px 0px rgba(255, 249, 249, 0.25);
+background: rgb(50, 251, 0);
+}
+.kol{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+width: 271px;
+height: 113px;
+}
+.karobka{
+    width: 368px;
+    height: 332px;
+    background-color: aqua  ;
+}
+.jooj{
+    display: flex;
+    gap:200px;
+}
+.hoho{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: left;   
+}
+.ota{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    position: relative;
+}
+.boy{
+    background-image: url(./images/Rectangle\ 2\ \(7\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 600px;
+}
+.container{
+    padding-top: 100px;
+    max-width: 1250px;
+    width: 100%;
+    margin: 0 auto;
+}
+.text{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: center; 
+}
+.nol{
+    border-radius: 30px;
+margin: 0 auto;
+box-shadow: 16px 18px 28px 0px rgba(255, 255, 255, 0.25);
+background: rgb(255, 255, 255);
+width: 602px;
+height: 75px; 
+}
+.nevara{
+    border-radius: 100px;
+position: absolute;
+bottom: 100px;
+right: 900px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;   
+text-shadow: 4px 4px 4px green;
+box-shadow: 0px 18px 26.5px 0px rgba(251, 0, 0, 0.25);
+background: rgb(247, 1, 1);
+width: 237px;
+height: 209px;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+.nevaraa{
+    border-radius: 100px;
+position: absolute;
+bottom: 100px;
+left: 420px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;   
+text-shadow: 4px 4px 4px green;
+box-shadow: 0px 18px 26.5px 0px rgba(251, 0, 0, 0.25);
+background: rgb(247, 1, 1);
+width: 411px;   
+height: 209px;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+.nevaraaa{
+    border-radius: 100px;
+position: absolute;
+bottom: 100px;
+left: 900px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;   
+text-shadow: 4px 4px 4px green;
+align-items: center;
+justify-content: center;
+display: flex;
+box-shadow: 0px 18px 26.5px 0px rgba(251, 0, 0, 0.25);
+background: rgb(247, 1, 1);
+width: 237px;
+height: 209px;
+
+}
